@@ -6,6 +6,8 @@
 
 ## [Open KYAMINER →](https://kyaminer.com/)
 
+[New here? Read the 3-minute enrollment guide →](docs/getting-started.en.md)
+
 Manage rigs, flight sheets and overclock settings from your desktop or phone, with AI-assisted troubleshooting.
 
 [Visit KYAMINER](https://kyaminer.com/) · [Telegram community](https://t.me/+xdKYKNbnFSM0NGNl) · [中文](README.md)
@@ -30,7 +32,7 @@ Screenshots show the actual interface with fictional demonstration data. They do
 
 Users without authorization can explore the preview. Operations require activation and a bound dedicated instance. AI credits and Advanced access are managed separately.
 
-[Open KYAMINER](https://kyaminer.com/) · [Enrollment guide (中文)](docs/getting-started.md)
+[Open KYAMINER](https://kyaminer.com/) · [Enrollment guide](docs/getting-started.en.md)
 
 ## Features
 

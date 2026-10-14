@@ -6,9 +6,11 @@
 
 ## [立即进入矿鸭 →](https://kyaminer.com/)
 
+[第一次使用？查看 3 分钟接入教程 →](docs/getting-started.md)
+
 集中查看矿机、管理飞行表与超频，用 AI 协助排查问题。在电脑和手机上管理你的矿场。
 
-[访问矿鸭](https://kyaminer.com/) · [加入 Telegram 社区](https://t.me/+xdKYKNbnFSM0NGNl) · [English](README.en.md) · [接入指南](docs/getting-started.md)
+[访问矿鸭](https://kyaminer.com/) · [加入 Telegram 社区](https://t.me/+xdKYKNbnFSM0NGNl) · [English](README.en.md) · [3 分钟接入教程](docs/getting-started.md)
 
 > 这是矿鸭的产品介绍、使用文档和问题反馈仓库。矿鸭是商业托管服务，核心源码不公开；本仓库不提供自部署程序。
 
