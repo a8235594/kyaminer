@@ -2,11 +2,35 @@
 
 ### An AI duck watching over your mining farm.
 
+**Free basic management for up to 5 rigs · HiveOS rig enrollment · AI-assisted operations**
+
+## [Open KYAMINER →](https://kyaminer.com/)
+
 Manage rigs, flight sheets and overclock settings from your desktop or phone, with AI-assisted troubleshooting.
 
 [Visit KYAMINER](https://kyaminer.com/) · [Telegram community](https://t.me/+xdKYKNbnFSM0NGNl) · [中文](README.md)
 
 > This repository contains product information, documentation and issue reporting. KYAMINER is a commercial hosted service. Core application source code and self-hosting packages are not published here.
+
+## Product preview
+
+Screenshots show the actual interface with fictional demonstration data. They do not contain customer data or represent actual or promised earnings.
+
+### Dashboard: hashrate, connectivity, revenue and electricity
+
+![KYAMINER dashboard with fictional hashrate, device status and electricity estimates](assets/dashboard-demo.png)
+
+### Mobile: check your Worker Ducks anywhere
+
+<img src="assets/mobile-workers-demo.png" alt="Mobile Worker Duck list with demonstration devices" width="390">
+
+### Duck King: explore before activating
+
+![Duck King feature preview: operations, monitoring, automated updates, relays and reports](assets/duck-king-preview.png)
+
+Users without authorization can explore the preview. Operations require activation and a bound dedicated instance. AI credits and Advanced access are managed separately.
+
+[Open KYAMINER](https://kyaminer.com/) · [Enrollment guide (中文)](docs/getting-started.md)
 
 ## Features
 

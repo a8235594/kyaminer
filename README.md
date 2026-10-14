@@ -1,12 +1,36 @@
 # 🦆 KYAMINER · 矿鸭
 
-### 每个矿场，都有一只 AI 鸭子在守候。
+### 每个鸭子窝，都有一只 AI 鸭子在守候。
+
+**5 台以内基础管理免费 · 支持 HiveOS 设备接入 · AI 辅助运维**
+
+## [立即进入矿鸭 →](https://kyaminer.com/)
 
 集中查看矿机、管理飞行表与超频，用 AI 协助排查问题。在电脑和手机上管理你的矿场。
 
 [访问矿鸭](https://kyaminer.com/) · [加入 Telegram 社区](https://t.me/+xdKYKNbnFSM0NGNl) · [English](README.en.md) · [接入指南](docs/getting-started.md)
 
 > 这是矿鸭的产品介绍、使用文档和问题反馈仓库。矿鸭是商业托管服务，核心源码不公开；本仓库不提供自部署程序。
+
+## 看看矿鸭
+
+以下为实际界面搭配虚构演示数据，不是客户数据，也不代表真实收益或收益承诺。
+
+### 工作台：算力、在线情况、收益与电费
+
+![矿鸭工作台：使用演示数据展示总算力、设备状态及电费估算](assets/dashboard-demo.png)
+
+### 手机端：随时查看工兵鸭
+
+<img src="assets/mobile-workers-demo.png" alt="手机端工兵鸭列表，使用演示设备" width="390">
+
+### 鸭王：先看功能，再决定是否开通
+
+![鸭王进阶功能预览：对话运维、监控、自动更新、中转与日报](assets/duck-king-preview.png)
+
+未授权账号可浏览功能预览；执行操作需要开通并绑定独立实例。AI 额度与进阶授权单独管理。
+
+[进入网站](https://kyaminer.com/) · [从一台设备开始接入](docs/getting-started.md)
 
 ## 可以做什么
 
