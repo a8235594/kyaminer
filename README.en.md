@@ -19,6 +19,12 @@ Manage rigs, flight sheets and overclock settings from your desktop or phone, wi
 - Estimated daily revenue, electricity costs and net revenue.
 - Mobile browser access and English/Chinese interfaces.
 
+## Advanced edition · Dedicated deployment
+
+The advanced edition offers dedicated deployment services and integration with third-party messaging apps. Use a familiar chat interface to check farm status, receive alerts and daily reports, and access authorized rig-management tools.
+
+Supported messaging platforms, deployment environments and features are confirmed based on available integrations. Dedicated deployment is a service offering; it does not make the core source code public or provide an open-source self-hosting package. Contact us through the [Telegram community](https://t.me/+xdKYKNbnFSM0NGNl).
+
 ## Get started
 
 1. Register or sign in at [kyaminer.com](https://kyaminer.com/).
