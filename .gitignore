@@ -1,0 +1,9 @@
+# Public repository: documentation and approved demo assets only
+.env*
+*.db
+*.sqlite*
+*.key
+*.pem
+*.zip
+__pycache__/
+node_modules/
