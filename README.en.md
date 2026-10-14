@@ -19,6 +19,23 @@ Manage rigs, flight sheets and overclock settings from your desktop or phone, wi
 - Estimated daily revenue, electricity costs and net revenue.
 - Mobile browser access and English/Chinese interfaces.
 
+## Free allowance, service time and access
+
+In the interface, **Duck Nest** means a farm, **Worker Duck** means a rig, **Flight Duck** means a flight sheet, and **Duck Eggs** refers to wallet management.
+
+| Account status | Access policy |
+| --- | --- |
+| Owns 0–5 Worker Ducks, including the fifth | Basic device management is free and is not restricted by service-time expiry |
+| Owns more than 5, with valid service time | Flight Duck deployment is available; service time continues counting down |
+| Owns more than 5, with expired service time | Only Flight Duck deployment is blocked; other features retain their existing access permissions |
+
+- Counts all devices owned by the account, including offline devices. Devices shared by other owners are excluded.
+- Expiry does not stop existing mining jobs. Status, logs, overclocking, restart and other operations are not disabled by this policy.
+- Deployment checks cover the web interface, batch operations, Duck King and automated updates. Queued deployments are checked again before delivery. Saving or editing a Flight Duck is not blocked by this policy.
+- **No automatic charges currently apply.** Service time continues counting down; existing top-up and reward records are preserved.
+- **AI Duck credits and Duck King Advanced access are managed separately** and are not included in the five-device free allowance.
+- Users without Advanced authorization may explore the feature preview but cannot perform operations. Activation and a bound dedicated instance are required. Previewing does not load real rig or conversation data or incur AI usage fees.
+
 ## Advanced edition · Dedicated deployment
 
 The advanced edition offers dedicated deployment services and integration with third-party messaging apps. Use a familiar chat interface to check farm status, receive alerts and daily reports, and access authorized rig-management tools.
